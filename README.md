@@ -1,6 +1,6 @@
 ### Hi there, I'm Ronil!👋
 
-[![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/)
+<!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
 #### I am an AI enthusiast, currently focusing on exploring the field of AI.
 
@@ -13,14 +13,15 @@
 -->
 
 ### About me :
-
-- 🔭 I’m currently working as [Technical Content Writer](https://www.analyticsvidhya.com/blog/author/ronyl0080/)
+- 👨🏻‍🎓 I'm Engineering student.
+- 🔭 I’m currently working as [Technical Content Writer.](https://www.analyticsvidhya.com/blog/author/ronyl0080/)
 - 🌱 I’m currently exploring Machine Learning & Deep Learning.
 - 💬 Ask me about anything [here](https://github.com/ronylpatil/ronylpatil/issues)
 
 ### Connect with me:
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/ronil08)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ronylpatil/)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/messenger.svg" />](ronylpatil@gmail.com)
 
 <br />
 
