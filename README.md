@@ -12,15 +12,24 @@
 - ⚡ Fun fact: 
 -->
 
-#### About me :
+### About me :
 
 - 🔭 I’m currently working as [Technical Content Writer](https://www.analyticsvidhya.com/blog/author/ronyl0080/)
 - 🌱 I’m currently learning Machine Learning & Deep Learning.
-- 💬 Ask me about anything [here]()
+- 💬 Ask me about anything [here](https://github.com/ronylpatil/ronylpatil/issues)
 
 ### Connect with me:
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/ronil08)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ronylpatil/)
 
+<br />
+
+
+### Checkout my blogs:
+
+
+<br />
+
+### Languages and Tools:
 
 
