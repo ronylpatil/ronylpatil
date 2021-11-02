@@ -13,12 +13,13 @@ I am an AI enthusiast, currently focusing on exploring the field of AI.
 - 🔭 I’m currently working as [Technical Content Writer.]()-->
 
 ### About me :
-- <img style="vertical-align : bottom" nowrap alt="Numpy" width="18px" src="" /> My Name
-- 👨🏻‍🎓 I'm Engineering student.
-- 📝 I'm blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles)
-- 🔬 Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
-- 🌱 I’m currently exploring Machine Learning & Deep Learning.
-- 💬 Ask me about anything [here](https://github.com/ronylpatil/ronylpatil/issues)
+* <img nowrap alt="Numpy" width="18px" src="icons8-neuron-96.png" style="vertical-align:bottom">  
+* ❄ Neural Net Architect
+* 👨🏻‍🎓 I'm Engineering student.
+* 📝 I'm blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles)
+* 🔬 Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
+* 🌱 I’m currently exploring Machine Learning & Deep Learning.
+* 💬 Ask me about anything [here](https://github.com/ronylpatil/ronylpatil/issues)
 
 ### Connect with me :
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/ronil08)
