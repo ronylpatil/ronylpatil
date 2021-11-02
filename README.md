@@ -13,13 +13,10 @@ I am an AI enthusiast, currently focusing on exploring the field of AI.
 - 🔭 I’m currently working as [Technical Content Writer.]()-->
 
 ### About me :
-* <img nowrap alt="Numpy" width="18px" src="icons8-neuron-96.png" style="vertical-align:bottom"> Name
-* <img nowrap alt="Numpy" width="18px" src="icons8-artificial-intelligence-96.png" style="vertical-align:bottom"> Name
-* <img nowrap alt="Numpy" width="23px" src="icons8-neuron-100.png" style="vertical-align:bottom"> Name
-* ❄ Neural Net Architect
+* <img nowrap alt="Numpy" width="18px" src="icons8-mind-map.gif" style="vertical-align:bottom"> I'm Neural Network Architect. 
 * 👨🏻‍🎓 I'm Engineering student.
 * 📝 I'm blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles)
-* 🔬 Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
+* 🔬 I'm Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
 * 🌱 I’m currently exploring Machine Learning & Deep Learning.
 * 💬 Ask me about anything [here](https://github.com/ronylpatil/ronylpatil/issues)
 
