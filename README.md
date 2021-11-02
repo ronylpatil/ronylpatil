@@ -23,7 +23,7 @@ I am an AI enthusiast, currently focusing on exploring the field of AI.
 ### Connect with me :
 [<img align="left" alt="Telegram" width="30px" src="icons8-telegram-app.gif" />](https://t.me/ronil08)
 [<img align="left" alt="LinkedIn" width="30px" src="icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/ronylpatil/)
-[<img align="left" alt="Email" width="29px" src="icons8-gmail-logo.gif" />](ronylpatil@gmail.com)
+[<img align="left" alt="Email" width="29px" src="icons8-gmail-logo.gif" />](mailto:ronylpatil@gmail.com)
 
 <br />
 
