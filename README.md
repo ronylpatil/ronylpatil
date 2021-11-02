@@ -13,6 +13,7 @@ I am an AI enthusiast, currently focusing on exploring the field of AI.
 - 🔭 I’m currently working as [Technical Content Writer.]()-->
 
 ### About me :
+- <img style="vertical-align : bottom" nowrap alt="Numpy" width="18px" src="" /> My Name
 - 👨🏻‍🎓 I'm Engineering student.
 - 📝 I'm blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles)
 - 🔬 Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
