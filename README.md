@@ -2,7 +2,7 @@
 
 <!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
-I am an AI enthusiast, currently focusing on exploring the field of AI.
+I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep Learning Stacks.
 
 <!--
 **ronylpatil/ronylpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,3 +53,7 @@ I am an AI enthusiast, currently focusing on exploring the field of AI.
 <img align="left" alt="Auto Keras" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
 <br />
 <br />
+
+### Profile Visits :
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil)
