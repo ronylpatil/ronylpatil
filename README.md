@@ -17,7 +17,7 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 * 👨🏻‍🎓 I'm Engineering student.
 * <img nowrap alt="Numpy" width="15px" src="icons8-pencil.gif" style="vertical-align:bottom"> I'm blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles).
 * 👨🏻‍💻 I'm Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
-* 🔎 I’m currently exploring Machine Learning & Deep Learning.
+* 🔎 I’m currently exploring Machine Learning & Deep Learning Stacks.
 * <img nowrap alt="Numpy" width="15px" src="icons8-chat.gif" style="vertical-align:bottom"> Ask me about anything [here.](https://github.com/ronylpatil/ronylpatil/issues)
 
 ### Connect with me :
