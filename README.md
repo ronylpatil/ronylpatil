@@ -55,5 +55,4 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 <br />
 
 ### Profile Visits :
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil&color=blueviolet)
