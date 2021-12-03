@@ -55,9 +55,8 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 <br />
 <br />
 
-#### Bizness
-- 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/resumes/)
-- 📧 ronylpatil@gmail.com
+### Resume
+- 📎 [My Resume](https://github.com/ronylpatil/resumes/Ronil%Patil%v1.0.pdf)
 
 ### Profile Visits :
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil&right_color=9cf)
