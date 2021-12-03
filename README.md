@@ -1,4 +1,4 @@
-### Hi there, I'm Ronil <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="21px" />
+## Hi there, I'm Ronil <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="21px"/>
 
 <!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
@@ -54,6 +54,10 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 <img align="left" alt="Auto Keras" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
 <br />
 <br />
+
+#### Bizness
+- 📎 [My Resume/CV](https://github.com/ipenywis/ipenywis/resumes/)
+- 📧 ronylpatil@gmail.com
 
 ### Profile Visits :
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil&right_color=9cf)
