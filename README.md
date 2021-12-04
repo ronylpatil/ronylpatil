@@ -41,7 +41,7 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 <br />
 
 
-### Machine Learning & Deep Learning Stack : 
+### Machine Learning & Deep Learning Framework : 
 <img align="left" alt="Numpy" width="29px" src="https://numpy.org/images/logo.svg" />
 <img align="left" alt="Pandas" width="32px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
 <img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
