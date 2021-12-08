@@ -1,4 +1,6 @@
-## Hi there, I'm Ronil <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="21px"/>
+<!-- ## Hi there, I'm Ronil <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="21px"/> -->
+
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ronylpatil/" target="_blank"> Ronil </a><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="21px"/></h2>
 
 <!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
