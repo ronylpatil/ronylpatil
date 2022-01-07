@@ -58,7 +58,7 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 <br />
 
 ### Ronil's GitHub stats 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronylpatil&count_private=true&show_icons=true&theme=light)](https://github.com/ronylpatil/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronylpatil&count_private=true&show_icons=true&theme=light)](https://github.com/ronylpatil/github-readme-stats)
 
 
 ### Resume
