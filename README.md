@@ -17,7 +17,7 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 -->
 
 ### About me :
-* <img nowrap alt="Numpy" width="18px" src="icons8-services (1).gif" style="vertical-align:bottom"> Freelancer - Machine Learning & NLP
+* <img nowrap alt="Numpy" width="18px" src="icons8-services (1).gif" style="vertical-align:bottom"> Freelancer - Machine Learning & NLP.
 * <img nowrap alt="Numpy" width="15px" src="icons8-pencil.gif" style="vertical-align:bottom"> Blogger at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/ronyl0080/) & [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ronilpatil/articles).
 * 👨🏻‍💻 Open Source contributor at [PyPI](https://pypi.org/project/WhatsappLib/).
 * 🔎 Diving deep into NLP.
