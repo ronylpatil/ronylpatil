@@ -72,9 +72,9 @@ I am an AI enthusiast. I spend most of time in exploring Machine Learning & Deep
 - 📎 [My Resume](https://github.com/ronylpatil/ronylpatil/blob/master/resumes/Ronil%20Patil%20v1.0.pdf)
 -->
 
-### Profile Visits :
+<!--### Profile Visits :
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ronylpatil.ronylpatil&right_color=9cf)
-
+-->
 <!-- ##### Profile Visits :
 ![Visitors](![](https://komarev.com/ghpvc/?username=your-github-username)) -->
 
