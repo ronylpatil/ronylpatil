@@ -79,7 +79,7 @@ Working on E2E Machine Learning Solution's.
 <br />
 
  ### GitHub Stats 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronylpatil&count_private=true&show_icons=true&hide=contribs)](https://github.com/ronylpatil/github-readme-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronylpatil&count_private=true&show_icons=true&hide=contribs)](https://github.com/ronylpatil/github-readme-stats)
 
 
 
