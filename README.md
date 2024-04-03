@@ -4,7 +4,7 @@
 
 <!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
-Working on E2E Machine Learning Solution's.
+Working on E2E Machine Learning Ops.
 
 <!--
 **ronylpatil/ronylpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
