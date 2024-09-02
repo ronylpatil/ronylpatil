@@ -64,6 +64,7 @@ MLOps🛠️ | AWS🌐
 <img align="left" alt="scikitlearn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="tensorflow" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="aws" width="48px" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png" />
+<img align="left" alt="dagshub" width="80px" height="30px" src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" />
 
 <!--
 <img align="left" alt="Numpy" width="29px" src="https://numpy.org/images/logo.svg" />
