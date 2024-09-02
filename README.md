@@ -4,7 +4,7 @@
 
 <!-- [![Website](https://img.shields.io/badge/LinkedIn-Join%20me-informational?style=flat-square&logo=linkedin&url=https://www.linkedin.com/in/ronylpatil/)](https://www.linkedin.com/in/ronylpatil/) -->
 
-MLOps🛠️ | AWS🌐 
+<b>Python <img align="top" alt="python" width="23px" src="icons8-python.gif" /> | SQL <img align="top" alt="database" width="23px" src="icons8-database.gif" /> | MLOps <img align="top" alt="mlops" width="23px" src="icons8-gear.gif" /> | AWS <img align="top" alt="aws" width="23px" src="icons8-cloud.gif" /> 
 
 <!--
 **ronylpatil/ronylpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,9 +32,9 @@ MLOps🛠️ | AWS🌐
 * <img nowrap alt="Numpy" width="15px" src="icons8-chat.gif" style="vertical-align:bottom"> Ask me about anything [here.](https://github.com/ronylpatil/ronylpatil/issues) -->
 
 ### Connect with me :
-[<img align="left" alt="Telegram" width="30px" src="icons8-telegram-app.gif" />](https://t.me/ronil08)
+[<img align="left" alt="medium" width="30px" src="icons8-medium.gif" />](https://medium.com/@ronilpatil)
 [<img align="left" alt="LinkedIn" width="30px" src="icons8-linkedin-circled.gif" />](https://www.linkedin.com/in/ronylpatil/)
-[<img align="left" alt="Email" width="29px" src="icons8-gmail-logo.gif" />](mailto:)
+[<img align="left" alt="Email" width="29px" src="icons8-gmail-logo.gif" />](mailto:ronlypatil@gmail.com)
 
 <br />
 
@@ -60,7 +60,7 @@ MLOps🛠️ | AWS🌐
 <img align="left" alt="mlflow" width="60px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
 <img align="left" alt="ci" width="29px" src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
 <img align="left" alt="fastapi" width="29px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" /> 
-<img align="left-bottom" alt="docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" />
+<img align="left" alt="docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" />
 <img align="left" alt="scikitlearn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="tensorflow" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="aws" width="48px" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png" />
