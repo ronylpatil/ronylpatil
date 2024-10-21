@@ -54,18 +54,22 @@
 
 
 ### MLOps Tools : 
+<p>
 <img align="left" alt="git" width="29px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="github" width="29px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="dvc" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" />
 <img align="left" alt="mlflow" width="60px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
 <img align="left" alt="ci" width="29px" src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
-<img align="left" alt="fastapi" width="29px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" /> 
+<img align="left" alt="fastapi" width="29px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />
 <img align="left" alt="docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" />
+</p>
+<br>
+<p>
 <img align="left" alt="scikitlearn" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="tensorflow" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="aws" width="48px" src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png" />
 <img align="left" alt="dagshub" width="100px" height="30px" src="https://user-images.githubusercontent.com/611655/181510038-e38f4001-c304-411e-8f45-f71554eb9763.png" />
-
+<img align="left" alt="redis" width="30px" height="30px" src="https://w7.pngwing.com/pngs/690/910/png-transparent-redis-redis-icon-thumbnail.png" /> </p>
 <!--
 <img align="left" alt="Numpy" width="29px" src="https://numpy.org/images/logo.svg" />
 <img align="left" alt="Pandas" width="32px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />
