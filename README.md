@@ -59,7 +59,7 @@
 <img align="left" alt="github" width="29px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="dvc" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" />
 <img align="left" alt="mlflow" width="60px" src="https://www.databricks.com/wp-content/uploads/2021/06/MLflow-logo-pos-TM-1.png" />
-<img align="left" alt="ci" width="29px" src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" />
+<img align="left" alt="ci" width="29px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*eUyIL30ysTJCYrdd6U_iwg.png" />
 <img align="left" alt="fastapi" width="29px" src="https://seeklogo.com/images/F/fastapi-logo-541BAA112F-seeklogo.com.png" />
 <img align="left" alt="docker" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" />
 </p>
