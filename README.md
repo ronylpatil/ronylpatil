@@ -88,7 +88,7 @@
  ### GitHub Stats 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronylpatil&count_private=true&show_icons=true&hide=contribs)](https://github.com/ronylpatil/github-readme-stats)
 
-
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ronylpatil)
 
 <!-- ### Resume
 - 📎 [My Resume](https://github.com/ronylpatil/ronylpatil/blob/master/resumes/Ronil%20Patil%20v1.0.pdf)
